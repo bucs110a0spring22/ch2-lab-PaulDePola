@@ -1,10 +1,14 @@
 
 #Part A
 weeks = 16
-classes = 5
-tuition = 6000
-cost_per_week = ((tuition / classes) / weeks)
-print("Cost per week:", cost_per_week)
-
-
+classes = 3
+tuition = 10000
+cost_per_week = ((10000/3)/16)
+classes_per_week =(11)
+print("$208.33")
 #Part B
+
+
+
+
+
