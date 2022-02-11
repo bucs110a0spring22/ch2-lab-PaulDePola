@@ -8,18 +8,17 @@
 _Replace anything surrounded by the `< >` symbols._
 
 ## SUMMARY:
- This program helps format the cost of attendance of college classes, and with the weeks, and tuition cost calculated. 
-
+ This program was supposed to intake tuition, class number, and weeks to see how much we pay per class and by week. 
 ## GRACE DAYS
 Grace days used for this assignment: 0
 
 Grace days remaining: 5/5
 
 ## KNOWN BUGS AND INCOMPLETE PARTS:
- N/A
+ i couldnt even print my data to the console 
 
 ## REFERENCES:
  N/A
 
 ## MISCELLANEOUS COMMENTS:
-No idea how to finish up this lab correctlly, TA instructions not clear, and data was imported manually into the console. I just wanna know what and how to do this. 
+ TA help wasn't prevelent, shell and console did not intake any of my commands. Nothing in this lab worked for me
